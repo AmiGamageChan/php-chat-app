@@ -5,5 +5,5 @@ Chat screen layout is a bit broken. Script works well.
 
 Variables
 
-** - email
-* - password in "process.php"
+(**) - email
+(*) - password in "process.php"
